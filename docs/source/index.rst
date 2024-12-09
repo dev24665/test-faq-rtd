@@ -19,5 +19,5 @@ Contents
 .. toctree::
    general
    navigating
-   usage
-   api
+   data_submission
+   
