@@ -18,5 +18,6 @@ Contents
 
 .. toctree::
    general
+   navigating
    usage
    api
