@@ -1,6 +1,8 @@
 Navigating this site
+=====
 
 What is the information displayed on the Explore page?
+------------
 The Explore page on the PDC website offers a comprehensive overview of all available data and various ways to explore the cohorts across PDC. The information is organized into three main panels:
 
 Graphic Panel
@@ -40,7 +42,7 @@ Data Downloads
 To download data files, you may download each file directly from the Files tab on the Data Panel by clicking the download button or by using the file manifest to download multiple files at once. Refer to the ‘Data Download’ section for more details.
 
 What is the information displayed on the Study Summary page?
-What is the information displayed on PDC Study Summary page?
+------------
 The Study Summary page on the PDC website provides a comprehensive overview of study information, helping users understand the data before downloading. Here's how you can access a Study Summary page and the features it includes:
 
 Accessing the Study Summary Page
@@ -80,4 +82,5 @@ Heatmap Visualization Section
 Features a heatmap thumbnail that links to a Morpheus heatmaps visualization page. This page includes quantitative data generated from the PDC common data analysis pipeline, annotated with extensive clinical information, and loaded into a Morpheus heatmaps viewer.
 
 What is the information displayed on PDC Case Summary page?
-Yes it is currently an observer member of a consortium.
+------------
+Information for Case Summary page.
